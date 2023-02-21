@@ -1,0 +1,10 @@
+body{
+    background-color: goldenrod;
+}
+.container{
+    background-image: url(../img/train.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 1px solid black;
+    border-radius: 25px;
+}
